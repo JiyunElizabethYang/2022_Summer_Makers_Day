@@ -1,4 +1,4 @@
-# 2022_Summer_Makers_Day
+# 2022 Summer Makers Day
 ~~~
 2022 여름방학 SMARCLE 메인 프로그램
 8주동안 진행되는 팀 프로젝트

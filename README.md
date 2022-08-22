@@ -56,10 +56,10 @@
 1주차|22.07.11 ~ 22.07.17|[예비 아이디어 기획안 발표](https://smarcle.notion.site/1-4081c70dd3c34f559bf481bc31a909be)|[다시보기](https://youtu.be/zovxRLxmE3g)|
 2주차|22.07.18 ~ 22.07.24|[최종 아이디어 기획안 발표](https://smarcle.notion.site/2-33bafffed54548bc821da9ac0ec67578)|[다시보기](https://youtu.be/4Nd6j3Lile0)|
 3주차|22.07.25 ~ 22.07.31|[진행사항 공유](https://smarcle.notion.site/3-9fd649fcbf614b658cec1ba88bf6de1f)|[다시보기](https://youtu.be/Xu6klijDFlc)|
-5주차|22.08.08 ~ 22.08.14|[프로토 타입 시현]()|[다시보기]()|
-6주차|22.08.15 ~ 22.08.21|[Making]()|[다시보기]()|
-7주차|22.08.22 ~ 22.08.28|[최종 발표]()|[다시보기]()|
-8주차|22.08.29 ~ 22.09.04|[]()|[다시보기]()|
+5주차|22.08.08 ~ 22.08.14|[프로토 타입 시현](https://smarcle.notion.site/5-b076ae653f83453fbe982ea52812af49)|[다시보기](https://youtu.be/JlnUmTBlprk)|
+6주차|22.08.15 ~ 22.08.21|[진행사항 공유](https://smarcle.notion.site/6-73f599d6dd73461b9a9dc21817eed2e3)|X|
+7주차|22.08.29|[최종 발표]()|[다시보기]()|
+
 
 > 4주차 Python Week 로 인한 휴강
 

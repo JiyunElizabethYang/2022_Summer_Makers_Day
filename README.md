@@ -58,7 +58,7 @@
 3주차|22.07.25 ~ 22.07.31|[진행사항 공유](https://smarcle.notion.site/3-9fd649fcbf614b658cec1ba88bf6de1f)|[다시보기](https://youtu.be/Xu6klijDFlc)|
 5주차|22.08.08 ~ 22.08.14|[프로토 타입 시현](https://smarcle.notion.site/5-b076ae653f83453fbe982ea52812af49)|[다시보기](https://youtu.be/JlnUmTBlprk)|
 6주차|22.08.15 ~ 22.08.21|[진행사항 공유](https://smarcle.notion.site/6-73f599d6dd73461b9a9dc21817eed2e3)|X|
-7주차|22.08.29|[최종 발표]()|[다시보기]()|
+7주차|22.08.29|[최종 발표]()|[1부](https://youtu.be/aXJn3hMV-oE)[2부](https://youtu.be/2JsHBRUPyaA)|
 
 
 > 4주차 Python Week 로 인한 휴강
